@@ -11,7 +11,7 @@
 
 
 <script>
-//imports
+
 import ContactForm from './components/ContactForm.vue';
 
 
